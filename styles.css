@@ -70,6 +70,17 @@ footer {
   margin: 20px;
 }
 
+ul {
+  list-style: none;
+}
+
+.fab {
+  font-size: 20px;
+  display: flex;
+  padding: 3px;
+  margin: 3px;
+}
+
 /* SMALL SCREENS*/
 
 @media (max-width: 420px) {
